@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   font-size: 100%;
-  line-height: 1.5;
 }
 
 body {
@@ -14,7 +13,7 @@ body {
 }
 
 .box {
-  padding-top: 4rem;
+  padding-top: 60px;
   width: 90%;
   margin: 0 auto;
   text-align: center;
@@ -22,10 +21,11 @@ body {
 
 .quote {
   font-family: 'Barlow', sans-serif;
-  font-size: 2.5rem; 
+  font-size: 40px; 
 }
 
 .author {
   font-family: 'Playfair Display', serif;
   font-style: italic;
+  font-size: 40px; 
 } 
